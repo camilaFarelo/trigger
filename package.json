@@ -59,8 +59,8 @@
     "babel-runtime": "6.x",
     "create-react-class": "15.x",
     "prop-types": "15.x",
-    "rc-align": "camilaFarelo/util#master",
+    "rc-align": "camilaFarelo/align#master",
     "rc-animate": "2.x",
-    "rc-util": "^4.3.0"
+    "rc-util": "^camilaFarelo/util#master"
   }
 }
