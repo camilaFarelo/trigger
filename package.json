@@ -61,6 +61,6 @@
     "prop-types": "15.x",
     "rc-align": "camilaFarelo/align#master",
     "rc-animate": "2.x",
-    "rc-util": "^camilaFarelo/util#master"
+    "rc-util": "camilaFarelo/util#master"
   }
 }
